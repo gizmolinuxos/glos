@@ -2,4 +2,8 @@
 Great Linux Operating Sysytem
 
 
-Start su terminal and execute 0-Start.sh
+Download glos-source
+Start su terminal and execute ./0-glos.sh
+
+And/Or Download glos.iso
+https://github.com/gizmolinuxos/glos.git
