@@ -4,14 +4,11 @@ Take it from voxel sandbox graphics to better fan voted on update packages.
 DOWNLOAD :::
 wget https://sourceforge.net/projects/anotherwar/files/latest/download/AnotherWar.zip
 
-# glos Great Linux Operating Sysytem
+# GLOS - Gizmo Linux Operating Sysytem
+
 Download glos-source
 https://github.com/gizmolinuxos/glos/blob/master/glos-source.zip
 Download glos-addons
 https://sourceforge.net/projects/gizmolinuxos/files/addon_toolbox.tar.xz/download
-Extract source and addons.
-Open a terminal and execute 
 
-./0-glos.sh
-
-Run resulting .iso in virtualbox or other vm.
+An Os in only 64 mb
